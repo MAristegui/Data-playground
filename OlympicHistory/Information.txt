@@ -1,0 +1,20 @@
+This dataset is available on the MavenAnalytics website. In addition, a dataset obtained from SimpleMaps is used to obtain the approximate latitude and longitude of each city and use them in geospatial visualizations.
+
+Summary: Historical data on the modern Olympic Games, from Athens 1896 to Rio 2016. Each row corresponds to an individual athlete competing in an individual event, including the athlete's name, sex, age, height, weight, country, and medal, and the event's name, sport, games, year, and city.
+
+The recommended analysis for this dataset is:
+- Analyze and visualize the % of athletes who were female over time.
+- Compare and contrast the summer and the winter games:
+      How many athletes compete?
+      How many countries compete?
+      How many events are there?
+- Analyze and visualize country-level trends:
+      Which countries send the most athletes to the olympics?
+      Do they also tend to win the most medals?
+      How have these trends changed over time?
+
+Extra analysis:
+- Medals count for each country in every sport
+- Breakdown of age groups per sport
+- Most popular locations for hosting the Olympic Games
+
